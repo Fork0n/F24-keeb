@@ -1,0 +1,35 @@
+# DEVLOGS:
+
+---
+
+> **Total Time Logged:** `3.0 hrs`  
+> **Repository:** [F-24-keeb](https://github.com/your-username/your-repo)  
+> **License:** [CC BY 4.0](LICENSE)
+
+---
+
+## 26.07.2026 - EST time: `3 hrs`
+> Research
+As today is the first day of my keyboard DIY journey i decided to start off with research and idea grounding. The only idea i had is that "I want it to have TWO function rows!", that's when I started designing the fisr prototype on [KLE](https://www.keyboard-layout-editor.com/#/), as of now, i'm proud to announce that the F-24-prototype-MK1 is done!
+
+<img width="1073" height="411" alt="F-24-prototype-MK1" src="https://github.com/user-attachments/assets/829ca949-d6a2-449e-b788-5c58b400511d" />
+
+it's still far from perfect and i'd say that it barrely represents my idea but it's easier to think when you have a graphical representation of your thoughts. Another thing that i slightly touched is the look, feel and design of the keyboard. Even though the real design will only be developed after the MVP (AKA the layout and the bare minimum of the PCB and case) is ready, i still wanted to have some references on what and how.
+One of my favourite keyboard designs (and the one I use RN) is the Varmilo Summit R2 TKL:
+<img width="894" height="336" alt="image" src="https://github.com/user-attachments/assets/497dd6e0-9236-40c8-85c1-93731d616c45" />
+Just look at those colors! the designs and icons are also cool, i love that some function keys are replaced with icons (i'll probably do that too) and the ESC key... OMG it gorgeously stands out.
+
+Another keyboard design I enjoyed is the Lofree Block:
+<img width="894" height="384" alt="image" src="https://github.com/user-attachments/assets/1e0537f8-63e7-41d9-992a-064120320000" />
+Assuming that most (if not all) double F row keyboards are old as hell, the retro design would generally make it modern inside and classic/retro on the outside.
+
+other designs i loved but can't tell much about:
+shirtz.cool x minecraft nether keycaps:
+<img width="1200" height="1500" alt="image" src="https://github.com/user-attachments/assets/b00d4e31-eba5-4e1d-8311-fa38e3765954" />
+shirtz.cool x minecraft cherry keycaps:
+<img width="1200" height="1500" alt="image" src="https://github.com/user-attachments/assets/1c7975e7-ec19-486f-b69e-d785d5b5b928" />
+Varmilo VA100 CYMC/Moonlight V2:
+<img width="750" height="305" alt="image" src="https://github.com/user-attachments/assets/146c795c-3a66-4c0a-bff8-635f948ad9cd" />
+<img width="2400" height="849" alt="image" src="https://github.com/user-attachments/assets/56959f81-feb7-4e35-9332-117aba1dcedc" />
+HM: teenage engineering inspired vibe and style:
+<img width="985" height="352" alt="image" src="https://github.com/user-attachments/assets/8e8fe719-5709-46b8-8ecb-569404f45133" />
