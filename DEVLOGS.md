@@ -2,7 +2,7 @@
 
 ---
 
-> **Total Time Logged:** `3.0 hrs`  
+> **Total Time Logged:** `5 hrs 22 min`  
 > **Repository:** [F-24-keeb](https://github.com/your-username/your-repo)  
 > **License:** [CC BY 4.0](LICENSE)
 
@@ -29,7 +29,16 @@ shirtz.cool x minecraft nether keycaps:
 shirtz.cool x minecraft cherry keycaps:
 <img width="1200" height="1500" alt="image" src="https://github.com/user-attachments/assets/1c7975e7-ec19-486f-b69e-d785d5b5b928" />
 Varmilo VA100 CYMC/Moonlight V2:
+
 <img width="750" height="305" alt="image" src="https://github.com/user-attachments/assets/146c795c-3a66-4c0a-bff8-635f948ad9cd" />
 <img width="2400" height="849" alt="image" src="https://github.com/user-attachments/assets/56959f81-feb7-4e35-9332-117aba1dcedc" />
 HM: teenage engineering inspired vibe and style:
 <img width="985" height="352" alt="image" src="https://github.com/user-attachments/assets/8e8fe719-5709-46b8-8ecb-569404f45133" />
+
+
+## 30.07.2026 - EST time: `2 hrs 22 min`
+> KiCad basics && design refining
+
+I was pretty unfamiliar with the KiCad app, well i "worked" on it one time but it was more of a larp, before making the final matrix i decided to play around in KiCad and refine the design
+
+<img width="633" height="592" alt="image" src="https://github.com/user-attachments/assets/12e65f15-d316-4994-aea9-077bc758a239" />
