@@ -36,9 +36,28 @@ HM: teenage engineering inspired vibe and style:
 <img width="985" height="352" alt="image" src="https://github.com/user-attachments/assets/8e8fe719-5709-46b8-8ecb-569404f45133" />
 
 
-## 30.07.2026 - EST time: `2 hrs 22 min`
+## 30.07.2026 - EST time: `3 hrs 41 min`
 > KiCad basics && design refining
 
 I was pretty unfamiliar with the KiCad app, well i "worked" on it one time but it was more of a larp, before making the final matrix i decided to play around in KiCad and refine the design
 
 <img width="633" height="592" alt="image" src="https://github.com/user-attachments/assets/12e65f15-d316-4994-aea9-077bc758a239" />
+
+Apparently KiCad isn't that hard to learn, i even started making the sketch of the matrix but, uhmmm... making a matrix for a not so aligned layout (aka the standard ANSI)
+
+<img width="403" height="846" alt="image" src="https://github.com/user-attachments/assets/52e29fec-730e-492c-9191-51be0d552962" />
+
+with the help of PCBGEN i got the rough idea of my target rows and columns
+
+## 30.07.2026 EST time: `2 hrs 2 min`
+> refining the schematic
+
+Before:
+
+<img width="1472" height="436" alt="image" src="https://github.com/user-attachments/assets/e563e046-e32c-42d9-9ee1-b072bfda158f" />
+
+After:
+
+<img width="2026" height="661" alt="image" src="https://github.com/user-attachments/assets/f305c487-209f-4249-95db-a84f0c46532a" />
+
+with the help of a few guides, a reference and a few hours of hard work i managed to optimize my schematic so that it matches my initial design, also i made room for the OLED screen and connected both RotaryEncoder_Switch to the matrix!
