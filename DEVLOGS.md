@@ -2,8 +2,8 @@
 
 ---
 
-> **Total Time Logged:** `5 hrs 22 min`  
-> **Repository:** [F-24-keeb](https://github.com/your-username/your-repo)  
+> **Total Time Logged:** `9 hrs 41 min`  
+> **Repository:** [F-24-keeb](https://github.com/fork0m/F24-keeb)  
 > **License:** [CC BY 4.0](LICENSE)
 
 ---
@@ -47,9 +47,9 @@ Apparently KiCad isn't that hard to learn, i even started making the sketch of t
 
 <img width="403" height="846" alt="image" src="https://github.com/user-attachments/assets/52e29fec-730e-492c-9191-51be0d552962" />
 
-with the help of PCBGEN i got the rough idea of my target rows and columns
+with the help of [PCBGEN](https://pcbgen.herokuapp.com/) i got the rough idea of my target rows and columns
 
-## 30.07.2026 EST time: `2 hrs 2 min`
+## 30.07.2026 - EST time: `3 hrs 11 min`
 > refining the schematic
 
 Before:
@@ -60,4 +60,32 @@ After:
 
 <img width="2026" height="661" alt="image" src="https://github.com/user-attachments/assets/f305c487-209f-4249-95db-a84f0c46532a" />
 
-with the help of a few guides, a reference and a few hours of hard work i managed to optimize my schematic so that it matches my initial design, also i made room for the OLED screen and connected both RotaryEncoder_Switch to the matrix!
+(PCBGEN matrix layout for reference)
+
+<img width="1333" height="542" alt="image" src="https://github.com/user-attachments/assets/7a59f79e-b203-44af-8c18-8b9139a42c2c" />
+
+
+with the help of a few guides, a reference and a few hours of hard work i managed to optimize my schematic so that it matches my initial design, also i made room for the OLED screen and connected both RotaryEncoder_Switch to the matrix! tho I'm not so sure about that, from my perspective, i wired them exactly the same as a switch (because it's essentially a switch, duh) with a diode and col2row connection, the problem is that most LLMs I asked flagged this exact decision as wrong, anyways that's a problem for later.
+
+<img width="2029" height="1155" alt="image" src="https://github.com/user-attachments/assets/b54b15ae-889d-413a-a00f-840cdf348a96" />
+finally I'm done (at least for a while) with the schematic!
+
+## 31.07.2026 - EST time `5 hrs 12 min (!!!)`
+
+<img width="1169" height="585" alt="image" src="https://github.com/user-attachments/assets/e8de6b77-22d1-4235-a480-74f3c571e523" />
+
+that was... a long time, i added safety features like capacitors and rewired the LEDs, now it's time for F8 and final PCB structure 
+
+SOME debugging later i found out that i put 1 extra switch in between "+=" and "backspace" keys (notice how there's an extra SW under the keyboard?, that was the odd one that made me rethink my design), anyways I fixed it by just drawing the whole keyboard like 3 times
+
+<img width="1896" height="755" alt="image" src="https://github.com/user-attachments/assets/1b57249c-43f4-48d6-a064-65a177ff1bc9" />
+
+<img width="1870" height="948" alt="image" src="https://github.com/user-attachments/assets/d5ab7175-e211-4bc3-8c8d-a1eb4cc4ae84" />
+
+"FINAL" (aka perfect key count) version: 
+
+<img width="1271" height="566" alt="image" src="https://github.com/user-attachments/assets/a3b93708-42f5-4e02-bee2-fa104b248aa0" />
+
+My last commit for today, I finished 1 key and will replicate it later
+
+<img width="776" height="710" alt="image" src="https://github.com/user-attachments/assets/4b6d0412-b421-4091-9a3f-3f58bc031fec" />
