@@ -6,8 +6,8 @@
 ## CH I: the idea:
 it all started when I got a new laptop with the nasty copilot key, at first i left it on seen and just ooccasionally missclicked it oppening copilot, then i found oit that power toys allow you to remap any key to any function (even virtual keys), that was great for mutting myself on discord but i felt like i needed more. at approximately the same time i discovered that i can turn my laptop's numpad in a DIY streamdeck AKA macropad, that was still not enough. One time when i was watching a video by bringus studious i took a closer look at the infamous _dirty cherry keyboard_, instead of a mono top row it was doubled! taking and EVEN closer look revealed that the keyboard had the row folderd instead of a double row. Anyways that whas the time when a "double function row keyboard" idea was born.
 
-## DEVLOGS CAN BE FOUND IN DEVLOGS.md
----
+## Project Updates & Devlogs
+Check out our detailed progress and updates in the [DEVLOGS.md](./DEVLOGS.md)!
 
 > <small>**Project Info & Licensing**  
 > Designed by **@forkosssa** ([Contact/Portfolio](https://large-type.com/#TODO)) • Licensed under [CC BY 4.0](LICENSE).  
