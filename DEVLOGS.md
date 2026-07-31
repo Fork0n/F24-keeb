@@ -89,3 +89,11 @@ SOME debugging later i found out that i put 1 extra switch in between "+=" and "
 My last commit for today, I finished 1 key and will replicate it later
 
 <img width="776" height="710" alt="image" src="https://github.com/user-attachments/assets/4b6d0412-b421-4091-9a3f-3f58bc031fec" />
+
+## 31.07.2026 - EST time `2 hrs 30 min`
+> Recreating the design on the PCB
+
+Finally my matrix looks like the schematic and it finally looks like my original idea! i finally reordered the dumb switches, wired them with their respective diode and LED and... it's so interesting but i'm sooooo tired of working today, at least now it looks PERFECT and I only need to add the Pi Pico (which might actually transform in a ESP32 or the RP2040 chip), MCP and wire them together.
+
+<img width="1687" height="695" alt="image" src="https://github.com/user-attachments/assets/46d23942-00db-48d6-9e2f-4bcfe395bbdc" />
+
