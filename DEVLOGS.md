@@ -2,7 +2,7 @@
 
 ---
 
-> **Total Time Logged:** `9 hrs 41 min`  
+> **Total Time Logged:** `i'm too lazy to calculate the total time each devlog so i'll calculate it at the end...`  
 > **Repository:** [F-24-keeb](https://github.com/fork0m/F24-keeb)  
 > **License:** [CC BY 4.0](LICENSE)
 
@@ -97,3 +97,34 @@ Finally my matrix looks like the schematic and it finally looks like my original
 
 <img width="1687" height="695" alt="image" src="https://github.com/user-attachments/assets/46d23942-00db-48d6-9e2f-4bcfe395bbdc" />
 
+## 01.08.2026 - EST time `3 hrs 45 min`
+> wiring
+
+Soooooo i completely forgot about devlogs... anyways, since I fixed some layout problems on the PCB it's time for the most tedious process that I initially thought was automated...
+
+<img width="1457" height="637" alt="image" src="https://github.com/user-attachments/assets/81c87c23-0753-46ee-9799-4315882b1dfb" />
+
+<img width="1331" height="252" alt="image" src="https://github.com/user-attachments/assets/e902e7dd-4eae-40ce-9372-2984c327684e" />
+
+since that's my firs time working and actually wiring something it's.... absolute dogshit... I mean if it works I can't complain, especially when the only thing in common between my project and the guide is that both are keyboards, the guide has all it's keys and switches in a perfect table, no LEDS and NO hotswap, also it doesn't use I2C or any GPIO extension whatsoever, wiring it is like drawing lines in a sketchbook. like no offense but IMO the guide must show the most difficult example so that the ones that don't care can ignore adding and wiring stuff. Also wiring and most things on the guide are "hit x to wire, pg up/down to go to F.Cu and B.Cu, you'll figure it out"
+
+## 02.08.2026 - EST time: `5 hrs 1 min`
+> re routing and optimization
+
+sooooo apparently my routing sucks... that's why I had to delete every path and redo them from scratch...
+I don't think I have any "before" screenshots (SIKE) but it's bad
+
+BEFORE:
+
+<img width="1276" height="546" alt="kicad_NXhsbIXjEU" src="https://github.com/user-attachments/assets/0a3401a4-1733-40da-ad50-6289c12b57f4" />
+
+AFTER (another man made horror beyond anyone's comprehension):
+
+<img width="1399" height="823" alt="image" src="https://github.com/user-attachments/assets/275dbc39-2c60-406d-bb48-e40dfcc1643f" />
+
+
+That's the most efficient and beautiful I could make it, I mean it still sucks in like 10 different ways but yk, it's my first time, and if it works it works
+
+<img width="1295" height="654" alt="image" src="https://github.com/user-attachments/assets/4ed721e5-9bee-4e70-b9d0-b61ea6838ff2" />
+
+(GOD it's been like 25 recorded hrs and more like a week of unpaid all day labor and I'm not even done with the PCB yet... IHMAWTD)
