@@ -128,3 +128,12 @@ That's the most efficient and beautiful I could make it, I mean it still sucks i
 <img width="1295" height="654" alt="image" src="https://github.com/user-attachments/assets/4ed721e5-9bee-4e70-b9d0-b61ea6838ff2" />
 
 (GOD it's been like 25 recorded hrs and more like a week of unpaid all day labor and I'm not even done with the PCB yet... IHMAWTD)
+
+## 03.08.2026 - EST time `3 hrs 05 min`
+>finishing the rows
+
+<img width="706" height="818" alt="image" src="https://github.com/user-attachments/assets/745a70f9-d9e7-4a1d-9425-eb62edd9c68d" />
+
+
+I FINALLY finished wiring the damn rows, not that it was hard but sooooo tedious and generally until i understood how to I wasted so many tries, anyways it's done and it looks... fine? yes, it's far from perfect but have respect, it's my firs time doing something serious in kicad, I'ma be so proud if I will make this project real, genuinely a next level of flex is using a keyboard that you made all by yourself (an a bit of funding ofc).  
+(this is 1/2 of todays devlogs, if I work hard I'll finish the PCB today, or at least this week). (I mean generally that's the hardest part, even though my 3D skills are not so good i think the case will be a breeze)
