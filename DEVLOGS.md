@@ -137,3 +137,10 @@ That's the most efficient and beautiful I could make it, I mean it still sucks i
 
 I FINALLY finished wiring the damn rows, not that it was hard but sooooo tedious and generally until i understood how to I wasted so many tries, anyways it's done and it looks... fine? yes, it's far from perfect but have respect, it's my firs time doing something serious in kicad, I'ma be so proud if I will make this project real, genuinely a next level of flex is using a keyboard that you made all by yourself (an a bit of funding ofc).  
 (this is 1/2 of todays devlogs, if I work hard I'll finish the PCB today, or at least this week). (I mean generally that's the hardest part, even though my 3D skills are not so good i think the case will be a breeze)
+
+## 03.08.2026 - EST time: `4 hrs 45 min (!!!)`
+>FINALLY I'M FREE FROM THOSE DAMN LEDS!!!!!!
+
+<img width="2162" height="913" alt="image" src="https://github.com/user-attachments/assets/3da0f7c6-f919-4ac8-8c6a-0ffa7a5b0209" />
+
+No extra comment, just free at last... ONLY POWER REMAINING AND THE PCB IS *LE DONE*
