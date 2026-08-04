@@ -145,10 +145,19 @@ I FINALLY finished wiring the damn rows, not that it was hard but sooooo tedious
 
 No extra comment, just free at last... ONLY POWER REMAINING AND THE PCB IS *LE DONE*
 
-## 04.08.2026 - EST time ` 3 hrs 33 min`
+## 04.08.2026 - EST time ` 4 hrs 43 min`
 >*LE PCB* is *LE done*
 
 GOD I'm so tired, like it's not hard but so tedious to wire everything and the damn GND fill that only breaks my design, even though i said it's done i still have to either hand route all GNDs or make the GND fill work
 
 <img width="1451" height="532" alt="image" src="https://github.com/user-attachments/assets/ee0854fa-bb0e-42cf-a398-a7f58308f005" />
 
+fixed wiring, ready for filling everything
+
+<img width="1715" height="630" alt="image" src="https://github.com/user-attachments/assets/a16e63e1-303c-4a53-8e97-e78200aac46f" />
+
+OMG I'M SOOOOOOOOOOOOOOOOOOOOOOOOO TIRED.... the damn kicad gives me errors like "pin 1 and pin 1 are not connected" like what do you mean stupid ones and zeroes, they are one solid piece of copper!
+
+<img width="1251" height="875" alt="image" src="https://github.com/user-attachments/assets/87b1810f-d35e-4c9a-8f19-d64fbeb4b596" />
+
+AND I STILL GET ERRORS THAT ARE JUST RANDOM BS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
