@@ -144,3 +144,11 @@ I FINALLY finished wiring the damn rows, not that it was hard but sooooo tedious
 <img width="2162" height="913" alt="image" src="https://github.com/user-attachments/assets/3da0f7c6-f919-4ac8-8c6a-0ffa7a5b0209" />
 
 No extra comment, just free at last... ONLY POWER REMAINING AND THE PCB IS *LE DONE*
+
+## 04.08.2026 - EST time ` 3 hrs 33 min`
+>*LE PCB* is *LE done*
+
+GOD I'm so tired, like it's not hard but so tedious to wire everything and the damn GND fill that only breaks my design, even though i said it's done i still have to either hand route all GNDs or make the GND fill work
+
+<img width="1451" height="532" alt="image" src="https://github.com/user-attachments/assets/ee0854fa-bb0e-42cf-a398-a7f58308f005" />
+
