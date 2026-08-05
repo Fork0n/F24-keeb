@@ -161,3 +161,19 @@ OMG I'M SOOOOOOOOOOOOOOOOOOOOOOOOO TIRED.... the damn kicad gives me errors like
 <img width="1251" height="875" alt="image" src="https://github.com/user-attachments/assets/87b1810f-d35e-4c9a-8f19-d64fbeb4b596" />
 
 AND I STILL GET ERRORS THAT ARE JUST RANDOM BS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+## 05.08.2026 - EST time `4 hrs 28 min`
+> FINALLLLLLLLLLYYYYYYYYYYYYYYYYYYY FINISHED THE DAMN PCB, SUCK IT KICAD AND SUCK IT DRC
+
+Sooooo today's 4 hrs were extremely productive, I finally finished the PCB with 0!!!! DRC errors! and yes, I just checked every square mm of the board connecting every suspicious thing 
+and it somehow worked!
+
+HERE'S THE FINAL (at least as far as MK1.2A goes) DESIGN!:
+
+<img width="2102" height="791" alt="image" src="https://github.com/user-attachments/assets/79ec4a78-77e2-493c-9bf9-a4947ea9fe80" />
+
+also I made a THT version in case that it was mandatory (AKA MK1.2B)
+
+<img width="2161" height="822" alt="image" src="https://github.com/user-attachments/assets/2a3d18d2-8c27-4208-9f0f-391d5a7eeaca" />
+
+anyways i still have to make the PCB have SWAG so I'll add silkscreen things next time
