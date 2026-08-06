@@ -177,3 +177,16 @@ also I made a THT version in case that it was mandatory (AKA MK1.2B)
 <img width="2161" height="822" alt="image" src="https://github.com/user-attachments/assets/2a3d18d2-8c27-4208-9f0f-391d5a7eeaca" />
 
 anyways i still have to make the PCB have SWAG so I'll add silkscreen things next time
+
+## 06.08.2026 - EST time `3 hrs 35 min`
+>MK1.3
+
+another highly productive day, I finished MK1.3 for SMD and THT! now I only need to settle on a design and make the MK2 and then using MK1.3 and MK2 design the case.
+
+MK1.3(B) THT:
+
+<img width="2150" height="817" alt="image" src="https://github.com/user-attachments/assets/5ddaa005-f708-4141-b993-311c178e410b" />
+
+MK1.3(A) SMD:
+
+<img width="2166" height="884" alt="image" src="https://github.com/user-attachments/assets/65f2cf5e-abf1-4c94-9d36-a0a40ddf73b5" />
