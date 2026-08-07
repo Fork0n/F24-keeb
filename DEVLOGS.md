@@ -190,3 +190,16 @@ MK1.3(B) THT:
 MK1.3(A) SMD:
 
 <img width="2166" height="884" alt="image" src="https://github.com/user-attachments/assets/65f2cf5e-abf1-4c94-9d36-a0a40ddf73b5" />
+
+## 06.08.2026 - EST time `3 hrs`
+> Onshape sucks
+
+AFTER 3 (NOT KIDDING) PAINFUL HOURS I gave up with on shape and decided to use Fusion. Also guess what? I managed to setup Fusion, create a project, import my .step pcb and co a mathematically perfect outline in under 15 minutes (I NEVER USED FUSION IN MY LIFE) (that took 2.5 hrs in onshape to still lag like hell on earth). Kinda wasted time today but IDC, Fusion feels much more intuitive and it's blazing fast so making the case will be a breeze
+
+Also I settled on the gasket mount since I care about feel and sound and also it doesn't require PCB side modifications (which is great since I have like 5 PCB revisions and variations and doing any changes on one means I'll have to redo all of them)
+
+<img width="2560" height="1380" alt="image" src="https://github.com/user-attachments/assets/f56071a2-7562-4257-a7bc-ac5016545f46" />
+
+## 07.08.2026 - EST time ` 0 hrs`
+
+yeah, today I had a really bad and difficult day and almost got killed by a bum soooo I didn't work today at all.... shame on me
