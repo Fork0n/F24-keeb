@@ -203,3 +203,7 @@ Also I settled on the gasket mount since I care about feel and sound and also it
 ## 07.08.2026 - EST time ` 0 hrs`
 
 yeah, today I had a really bad and difficult day and almost got killed by a bum soooo I didn't work today at all.... shame on me
+
+## 17.08.2026 - EST time: ` 3 hrs 44 min`
+
+sooo today i came back from a vacation and my comback started really productively, I finished the plate edge (with the gasket notches) and i started the hardest part of the damn plate aka the holes for the switches and other stuff... predicting to finish in 48 hrs from now
