@@ -207,3 +207,11 @@ yeah, today I had a really bad and difficult day and almost got killed by a bum 
 ## 17.08.2026 - EST time: ` 3 hrs 44 min`
 
 sooo today i came back from a vacation and my comback started really productively, I finished the plate edge (with the gasket notches) and i started the hardest part of the damn plate aka the holes for the switches and other stuff... predicting to finish in 48 hrs from now
+
+## 18.08.2026 - Est time: ` 3 hrs `
+>Plate
+
+sooo i finally finished the switches (and other stuff) overlay and from what I understood i only need to extrude them and that's it! i'm soooo happy!
+
+<img width="1830" height="771" alt="image" src="https://github.com/user-attachments/assets/c3bdf404-1463-4a6f-9074-0be646229cfa" />
+
