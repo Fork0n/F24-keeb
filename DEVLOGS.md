@@ -215,3 +215,23 @@ sooo i finally finished the switches (and other stuff) overlay and from what I u
 
 <img width="1830" height="771" alt="image" src="https://github.com/user-attachments/assets/c3bdf404-1463-4a6f-9074-0be646229cfa" />
 
+## 19.08.2026 - EST time: `3 hrs`
+>plate design
+
+Today I did the holes for stuff like the pico, USB port, stabs and other stuff that normally must not be covered by the plate. it was a pain since i had to learn fusion to do anything AND i had to invent stuff just because IDK how else am i supposed to do it. i took inspiration from my current keyboard to finish the holes.
+
+(ADD SCREENSHOT LATER)
+
+## 20.08.2026 - EST time: ` 2 hrs`
+>study
+
+today i was really tired and didn't feel like doing much so i decided to study instead. by taking a look as some other gasket mount PCBs and other DIY keebs i kinda started to understand how and why. I'm still on the "perfectionist" stage where i think everything must be mathematically correct and micrometer precise (even though half of my design is assumptions and it will be fed through a gazillion abstraction and imperfection layers anyways). I just wane my keeb to work and so that it feels good :(
+
+## 21.08.2026 - EST time: ` 4 hrs 43 min`
+>finished plate (?)
+
+Finally i had the balls to finish the plate out of the sketches! even though it might feel easy but again, i'm a fusion noob AND my perfectionism won't leave me alone. i had to re extrude and re align it like 4-5 times before the result satisfied my neeeds. rn it looks like this, it's probably not the final version but it feels so good to see it in volume:
+
+<img width="1717" height="706" alt="Fusion360_dQskucoQ7W" src="https://github.com/user-attachments/assets/e7af9762-b91a-4e50-8adb-0c9ab9e861b8" />
+
+(also it's unrelated but i tidied my D drive and thought about switching to a smaller board to cure the tumor, it's, sadly, harder than expected and the easiest change will mean rerouting and remaking the plate and case from scratch) 
