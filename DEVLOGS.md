@@ -220,7 +220,9 @@ sooo i finally finished the switches (and other stuff) overlay and from what I u
 
 Today I did the holes for stuff like the pico, USB port, stabs and other stuff that normally must not be covered by the plate. it was a pain since i had to learn fusion to do anything AND i had to invent stuff just because IDK how else am i supposed to do it. i took inspiration from my current keyboard to finish the holes.
 
-(ADD SCREENSHOT LATER)
+<img width="1479" height="623" alt="image" src="https://github.com/user-attachments/assets/29e24e2f-b269-4c7a-a61f-3c96f3ed3714" />
+
+the hole in the gasket tab issssss... kinda necessary... it looks lowk bad but IDK how else to do it
 
 ## 20.08.2026 - EST time: ` 2 hrs`
 >study
