@@ -238,10 +238,22 @@ Finally i had the balls to finish the plate out of the sketches! even though it 
 
 (also it's unrelated but i tidied my D drive and thought about switching to a smaller board to cure the tumor, it's, sadly, harder than expected and the easiest change will mean rerouting and remaking the plate and case from scratch) 
 
-## 22-23.08.2026
+## 22-23.08.2026 - EST time: `6 hrs 31 min`
 
 When life gives you lemons, don’t make lemonade. Make life take the lemons back! Get mad! I don’t want your damn lemons, what the hell am I supposed to do with these? Demand to see life’s manager! Make life rue the day it thought it could give Cave Johnson lemons! Do you know who I am? I’m the man who’s gonna burn your house down! With the lemons! I’m gonna get my engineers to invent a combustible lemon that burns your house down! 
 
 <img width="674" height="323" alt="image" src="https://github.com/user-attachments/assets/62cc548a-d46d-4b7a-9c7e-b566b873aa87" />
 
 honestly atp idk what to do except start from scratch.
+
+Okay I didn't give up, i just: recovered a stinky old backup; redid all the changes; redid the plate; added the screen 3d model; noticed that the screen was rotated 180 deg; flipped it in the pcb; imported the new pcb step; noticed a 1mm move; redesigned the screen hole; extruded final variant.
+
+I'M SOOOOOOOOOOO TIRED
+
+<img width="1288" height="562" alt="image" src="https://github.com/user-attachments/assets/fcf26ffb-93b2-46ee-aef9-91eb45575531" />
+
+<img width="1768" height="801" alt="image" src="https://github.com/user-attachments/assets/6f97162b-f471-49fe-aea0-3a17051c14c3" />
+
+<img width="2027" height="436" alt="image" src="https://github.com/user-attachments/assets/100a4479-bfc7-438f-ba09-babdabec39a1" />
+
+this plate is haunting me for over a week already
