@@ -257,3 +257,12 @@ I'M SOOOOOOOOOOO TIRED
 <img width="2027" height="436" alt="image" src="https://github.com/user-attachments/assets/100a4479-bfc7-438f-ba09-babdabec39a1" />
 
 this plate is haunting me for over a week already
+
+## 23.08.2026 - EST time `2 hrs`
+>case design
+
+As soon as i was 70% okay with the plate i started designing the case itself, as of now i decided to make it go 9mm below the PCB, to be 4mm thick so that it overlays the tabs with 2mm and i still will be able to add clearance for the poron/silicone.
+
+<img width="1539" height="1072" alt="image" src="https://github.com/user-attachments/assets/c4d0c7e9-5d2c-4bfd-a32e-66cff72315a4" />
+
+this design gives me a 5mm bottom - PCB gap, perfect for a poron 
