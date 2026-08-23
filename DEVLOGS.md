@@ -237,3 +237,11 @@ Finally i had the balls to finish the plate out of the sketches! even though it 
 <img width="1717" height="706" alt="Fusion360_dQskucoQ7W" src="https://github.com/user-attachments/assets/e7af9762-b91a-4e50-8adb-0c9ab9e861b8" />
 
 (also it's unrelated but i tidied my D drive and thought about switching to a smaller board to cure the tumor, it's, sadly, harder than expected and the easiest change will mean rerouting and remaking the plate and case from scratch) 
+
+## 22-23.08.2026
+
+When life gives you lemons, don’t make lemonade. Make life take the lemons back! Get mad! I don’t want your damn lemons, what the hell am I supposed to do with these? Demand to see life’s manager! Make life rue the day it thought it could give Cave Johnson lemons! Do you know who I am? I’m the man who’s gonna burn your house down! With the lemons! I’m gonna get my engineers to invent a combustible lemon that burns your house down! 
+
+<img width="674" height="323" alt="image" src="https://github.com/user-attachments/assets/62cc548a-d46d-4b7a-9c7e-b566b873aa87" />
+
+honestly atp idk what to do except start from scratch.
