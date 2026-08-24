@@ -1,4 +1,4 @@
-# DEVLOGS:
+<img width="2560" height="1380" alt="image" src="https://github.com/user-attachments/assets/a8799c7b-2445-4cf9-8eec-3890b7b948c2" /># DEVLOGS:
 
 ---
 
@@ -136,7 +136,7 @@ That's the most efficient and beautiful I could make it, I mean it still sucks i
 
 
 I FINALLY finished wiring the damn rows, not that it was hard but sooooo tedious and generally until i understood how to I wasted so many tries, anyways it's done and it looks... fine? yes, it's far from perfect but have respect, it's my firs time doing something serious in kicad, I'ma be so proud if I will make this project real, genuinely a next level of flex is using a keyboard that you made all by yourself (an a bit of funding ofc).  
-(this is 1/2 of todays devlogs, if I work hard I'll finish the PCB today, or at least this week). (I mean generally that's the hardest part, even though my 3D skills are not so good i think the case will be a breeze)
+(this is 1/2 of today's devlogs, if I work hard I'll finish the PCB today, or at least this week). (I mean generally that's the hardest part, even though my 3D skills are not so good i think the case will be a breeze)
 
 ## 03.08.2026 - EST time: `4 hrs 45 min (!!!)`
 >FINALLY I'M FREE FROM THOSE DAMN LEDS!!!!!!
@@ -206,12 +206,12 @@ yeah, today I had a really bad and difficult day and almost got killed by a bum 
 
 ## 17.08.2026 - EST time: ` 3 hrs 44 min`
 
-sooo today i came back from a vacation and my comback started really productively, I finished the plate edge (with the gasket notches) and i started the hardest part of the damn plate aka the holes for the switches and other stuff... predicting to finish in 48 hrs from now
+sooo today i came back from a vacation and my comeback started really productively, I finished the plate edge (with the gasket notches) and i started the hardest part of the damn plate aka the holes for the switches and other stuff... predicting to finish in 48 hrs from now
 
 ## 18.08.2026 - Est time: ` 3 hrs `
 >Plate
 
-sooo i finally finished the switches (and other stuff) overlay and from what I understood i only need to extrude them and that's it! i'm soooo happy!
+sooo i finally finished the switches (and other stuff) overlay and from what I understood i only need to extrude them and that's it! I'm soooo happy!
 
 <img width="1830" height="771" alt="image" src="https://github.com/user-attachments/assets/c3bdf404-1463-4a6f-9074-0be646229cfa" />
 
@@ -232,7 +232,7 @@ today i was really tired and didn't feel like doing much so i decided to study i
 ## 21.08.2026 - EST time: ` 4 hrs 43 min`
 >finished plate (?)
 
-Finally i had the balls to finish the plate out of the sketches! even though it might feel easy but again, i'm a fusion noob AND my perfectionism won't leave me alone. i had to re extrude and re align it like 4-5 times before the result satisfied my neeeds. rn it looks like this, it's probably not the final version but it feels so good to see it in volume:
+Finally i had the balls to finish the plate out of the sketches! even though it might feel easy but again, I'm a fusion noob AND my perfectionism won't leave me alone. i had to re extrude and re align it like 4-5 times before the result satisfied my needs. rn it looks like this, it's probably not the final version but it feels so good to see it in volume:
 
 <img width="1717" height="706" alt="Fusion360_dQskucoQ7W" src="https://github.com/user-attachments/assets/e7af9762-b91a-4e50-8adb-0c9ab9e861b8" />
 
@@ -244,9 +244,9 @@ When life gives you lemons, don’t make lemonade. Make life take the lemons bac
 
 <img width="674" height="323" alt="image" src="https://github.com/user-attachments/assets/62cc548a-d46d-4b7a-9c7e-b566b873aa87" />
 
-honestly atp idk what to do except start from scratch.
+honestly ATP idk what to do except start from scratch.
 
-Okay I didn't give up, i just: recovered a stinky old backup; redid all the changes; redid the plate; added the screen 3d model; noticed that the screen was rotated 180 deg; flipped it in the pcb; imported the new pcb step; noticed a 1mm move; redesigned the screen hole; extruded final variant.
+Okay I didn't give up, i just: recovered a stinky old backup; redid all the changes; redid the plate; added the screen 3d model; noticed that the screen was rotated 180 deg; flipped it in the PCB; imported the new PCB step; noticed a 1mm move; redesigned the screen hole; extruded final variant.
 
 I'M SOOOOOOOOOOO TIRED
 
@@ -265,4 +265,16 @@ As soon as i was 70% okay with the plate i started designing the case itself, as
 
 <img width="1539" height="1072" alt="image" src="https://github.com/user-attachments/assets/c4d0c7e9-5d2c-4bfd-a32e-66cff72315a4" />
 
-this design gives me a 5mm bottom - PCB gap, perfect for a poron 
+this design gives me a 5mm bottom - PCB gap, perfect for a poron dampener
+
+## 24.08.2026 - EST time `~6 hrs (4 + 2)`
+
+Today I was working all day with a break and 2 total sessions, I finished the case skeleton and it's ready for the finishing touches! I extruded the initial walls of my bottom case, then cut out the tabs from the extrusion, since I still needed to fit the gasket and i needed some wiggle room so I made the hole 1mm wider and to fit the gasket I made it 2mm deeper (i will be using a 3mm poron sheet for the gaskets and it will be 33.(3)% compressed which is actually the perfect compression for poron. then I did the same for the upper part. Then i noticed that the case and the plate have 0(!)mm clearance, that's bad, so i pushed extra 0.2mm from the case walls to give extra room.
+
+<img width="1245" height="504" alt="image" src="https://github.com/user-attachments/assets/6a0c9f79-52f2-4d36-b50b-35a37324a299" />
+
+<img width="1481" height="906" alt="Fusion360_1F4rwa9MFO" src="https://github.com/user-attachments/assets/b24018ae-74d1-4048-afda-13abe3d745bf" />
+
+<img width="1611" height="906" alt="Fusion360_Ch0pzffZ9U" src="https://github.com/user-attachments/assets/ae871591-f89f-4223-9de7-2d3ad997ffcc" />
+
+At the end I'm more than happy with the design and it's still not the end, I still need to add cosmetic improvements and perform useless tests until I'm happy with the results and until I feel like it's production ready 
