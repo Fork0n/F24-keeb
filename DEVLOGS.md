@@ -1,4 +1,4 @@
-<img width="2560" height="1380" alt="image" src="https://github.com/user-attachments/assets/a8799c7b-2445-4cf9-8eec-3890b7b948c2" /># DEVLOGS:
+# DEVLOGS:
 
 ---
 
@@ -278,3 +278,23 @@ Today I was working all day with a break and 2 total sessions, I finished the ca
 <img width="1611" height="906" alt="Fusion360_Ch0pzffZ9U" src="https://github.com/user-attachments/assets/ae871591-f89f-4223-9de7-2d3ad997ffcc" />
 
 At the end I'm more than happy with the design and it's still not the end, I still need to add cosmetic improvements and perform useless tests until I'm happy with the results and until I feel like it's production ready 
+
+## 25.08.2026- EST time `3 hrs 22 min`
+
+today i searched for like an hour straight to find an exact 1:1 replica of a Pi pico but with a type c port, and I found IT! it's technically a ESP C3 in the body of a pico and it's like 3mm shorter than the pico i decided to use but who cares, it works for me! That meant that my initial guess on the type C is not necessary anymore! (that also mean that I'll need to redo everything if i decide to use a THT pi but that's a problem for later) 
+
+during hole making process the hole tool actually clipped lile 0.1mm over the upper body so instead of extruding it 1mm i added a "lip"
+
+<img width="1369" height="322" alt="image" src="https://github.com/user-attachments/assets/a3228c9c-c718-4da5-a4d5-aceb23f8d222" />
+
+The finished result looks PERFECT!
+
+<img width="869" height="779" alt="image" src="https://github.com/user-attachments/assets/aeb8d5f4-c09a-42a3-93a5-9e3be30fade5" />
+
+it will fit 99% of type c cables since i added extra clearance ++
+
+<img width="995" height="649" alt="image" src="https://github.com/user-attachments/assets/d97bda48-98f1-4e82-91a9-9cd01733bfcd" />
+
+<img width="1122" height="729" alt="image" src="https://github.com/user-attachments/assets/b80e65d8-6b8c-428d-83c6-7a2a8b154511" />
+
+I think the case is 90% done, a few cosmetic modifications and I think i'm ready to ship!!
