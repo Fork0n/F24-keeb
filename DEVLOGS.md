@@ -298,3 +298,7 @@ it will fit 99% of type c cables since i added extra clearance ++
 <img width="1122" height="729" alt="image" src="https://github.com/user-attachments/assets/b80e65d8-6b8c-428d-83c6-7a2a8b154511" />
 
 I think the case is 90% done, a few cosmetic modifications and I think i'm ready to ship!!
+
+## 26.08.2026 - EST time `2 hrs 33 min`
+
+since it's the end of my journey i spent all day fighting with fusion and JLC to export and check for manufacturing for my stuff. apparently it's cheaper than i thought. but fusion still fights back by crashing on any action. I still have to make the 2 parts meet but the guide doesn't say much about it and i'll have to guess, again
