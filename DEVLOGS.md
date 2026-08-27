@@ -302,3 +302,13 @@ I think the case is 90% done, a few cosmetic modifications and I think i'm ready
 ## 26.08.2026 - EST time `2 hrs 33 min`
 
 since it's the end of my journey i spent all day fighting with fusion and JLC to export and check for manufacturing for my stuff. apparently it's cheaper than i thought. but fusion still fights back by crashing on any action. I still have to make the 2 parts meet but the guide doesn't say much about it and i'll have to guess, again
+
+## 27.08.2026 - EST time `2 hrs 23 min`
+
+today I wasted all day outside and came back soooo tired that i could do much, yet i solved one of the greatest problems in my project: screws
+
+I feared them since 3 separate sources listed different specs and sized for the same M2 screws, at the end i settled to m2 dk4 flat screws, probably 7-9mm long. I will make the top hole 2.4mm which is apparently "normal" fit for a 2mm screw and for the bottom part i will be using brass inserts that from what i recall are something like 3mm in diameter so a 3mm hole or a tad smaller will do the job.
+
+<img width="1466" height="834" alt="image" src="https://github.com/user-attachments/assets/e6e76949-bc26-484f-812d-5e6e6806b9c1" />
+
+that's the layout I settled on because Gemini says that too much = too much and that it will distort the sound and stop natural bending or idk. i settled on screws almost every in between tab space, that's roughly 9-12 screws and i'm happy with it.
