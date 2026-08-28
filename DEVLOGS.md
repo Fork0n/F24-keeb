@@ -312,3 +312,18 @@ I feared them since 3 separate sources listed different specs and sized for the 
 <img width="1466" height="834" alt="image" src="https://github.com/user-attachments/assets/e6e76949-bc26-484f-812d-5e6e6806b9c1" />
 
 that's the layout I settled on because Gemini says that too much = too much and that it will distort the sound and stop natural bending or idk. i settled on screws almost every in between tab space, that's roughly 9-12 screws and i'm happy with it.
+
+
+## 28.08.2026 - EST time ` 3 hrs 10 min`
+
+for like the fifth time already life throws combustible lemons at me, this time all the switches collided just a bit with the pcb which meant that i either needed to start from scratch or get creative. Apparently getting creative got me in experiencing collateral benefit as fixing the switch placement fixed my case clearance issue almost completely!
+
+Before:
+
+<img width="892" height="839" alt="Fusion360_5Ro4m1fYNc" src="https://github.com/user-attachments/assets/eb47a92d-fb1e-4adb-a38f-1632b896af7a" />
+
+After:
+
+<img width="1135" height="1026" alt="Fusion360_odiPu61Ybg" src="https://github.com/user-attachments/assets/9c047526-50eb-4411-a283-db3127deddb2" />
+
+now for my poron dampener to work I need either to rise the bottom like 1mm or pray that the current design is good enough (this will also mean trimming the pins but shhhh)
