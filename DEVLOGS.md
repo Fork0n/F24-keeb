@@ -327,3 +327,8 @@ After:
 <img width="1135" height="1026" alt="Fusion360_odiPu61Ybg" src="https://github.com/user-attachments/assets/9c047526-50eb-4411-a283-db3127deddb2" />
 
 now for my poron dampener to work I need either to rise the bottom like 1mm or pray that the current design is good enough (this will also mean trimming the pins but shhhh)
+
+
+Also today I almost finished with screws + fixed the port hole problem
+
+<img width="1173" height="748" alt="image" src="https://github.com/user-attachments/assets/02e350ca-a8bc-4c1c-afb3-4262eb8016be" />
