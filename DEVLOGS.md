@@ -332,3 +332,25 @@ now for my poron dampener to work I need either to rise the bottom like 1mm or p
 Also today I almost finished with screws + fixed the port hole problem
 
 <img width="1173" height="748" alt="image" src="https://github.com/user-attachments/assets/02e350ca-a8bc-4c1c-afb3-4262eb8016be" />
+
+
+## 29.08.2026 - EST time `2 hrs`
+
+life doesn't hesitate throwing lemons at me again so i couldn't move my shetch, anyways i still have my holes so i'm okay with that
+
+<img width="1241" height="508" alt="image" src="https://github.com/user-attachments/assets/44da7784-8f40-4e38-9ae3-9ff4beb18b30" />
+
+<img width="431" height="748" alt="image" src="https://github.com/user-attachments/assets/666f3a8a-3faf-4a0f-9bce-04609ea6757f" /> <img width="423" height="748" alt="image" src="https://github.com/user-attachments/assets/3222db98-fad7-43f7-8157-924f0c405c7f" />
+
+
+i made my holes for M2 3*3 brass inserts, the top case will be held down by the screw but without threads and apparently 2.4mm is a "normal fit" for a 2mm screw, the bottom case is getting a 2.8mm hole to fit the 3mm insert. 
+
+also i fixed the hole since it was imperfect
+
+Before:
+
+<img width="1337" height="858" alt="image" src="https://github.com/user-attachments/assets/034fc5bd-359c-48b7-bac5-d7c00da33055" />  <img width="519" height="298" alt="Fusion360_aVNNW6SzFp" src="https://github.com/user-attachments/assets/835eef6a-bbaf-4a5f-9cf9-e0c05a8755a4" />
+
+After:
+
+<img width="1186" height="818" alt="image" src="https://github.com/user-attachments/assets/5fa32e1e-fa2c-4f51-bd34-f590b20409b4" />
