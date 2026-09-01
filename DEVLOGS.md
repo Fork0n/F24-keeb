@@ -354,3 +354,20 @@ Before:
 After:
 
 <img width="1186" height="818" alt="image" src="https://github.com/user-attachments/assets/5fa32e1e-fa2c-4f51-bd34-f590b20409b4" />
+
+
+## 01.09.2026 - EST time `3 + 3 hrs`
+
+today i decided to add some SWAG aka cool and unnecessary things. I had the "XEN" logo already made but it had many flaws one of them being that it was raster and the other one was shapes and colors. to be distinguishable it must have at least 2 colors and unfortunately the silkscreen is only one color soooo it doesn't look as sexy as it could.
+
+<img width="1808" height="672" alt="image" src="https://github.com/user-attachments/assets/529e20e5-35d5-4318-bbae-e68314071eee" />
+
+the board should be black but for some reason it looks shittyish-green...
+
+A bigger problem was the case, to indent my logo in the bottom of the case i had to import the outline, to import the outline i needed a clean SVG, to have a clean SVG.... long story short i spent 3-4 HOURS trying every PNG to SVG converter and even forced LLMs to work but still nothing, i had to make a webapp that would input a drawn matrix and output the outline as an SVG, and it worked! thanks to it I now have this cool indent that might lowkey do more harm than good but I don't care, it's called SWAG and it comes at a price
+
+<img width="1335" height="541" alt="Fusion360_zyeMmbt3KI" src="https://github.com/user-attachments/assets/5d081042-61e6-47f1-ba42-19de5417def9" />
+
+(even though it looks like a 2d sketch it's indented .3 and .2 mm, i might change it if i find out that there's something wrong with the current design)
+
+the only thing left is finishing the SWAG and it's ready to sail the seas of Open Source Hardware!
