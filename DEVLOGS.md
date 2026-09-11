@@ -2,7 +2,7 @@
 
 ---
 
-> **Total Time Logged:** `i'm too lazy to calculate the total time each devlog so i'll calculate it at the end...`  
+> **Total Time Logged:** `89 hrs 22 min`  
 > **Repository:** [F-24-keeb](https://github.com/fork0m/F24-keeb)  
 > **License:** [CC BY 4.0](LICENSE)
 
@@ -10,14 +10,14 @@
 
 ## 26.07.2026 - EST time: `3 hrs`
 > Research
-As today is the first day of my keyboard DIY journey i decided to start off with research and idea grounding. The only idea i had is that "I want it to have TWO function rows!", that's when I started designing the fisr prototype on [KLE](https://www.keyboard-layout-editor.com/#/), as of now, i'm proud to announce that the F-24-prototype-MK1 is done!
+As today is the first day of my keyboard DIY journey i decided to start off with research and idea grounding. The only idea i had is that "I want it to have TWO function rows!", that's when I started designing the fisr prototype on [KLE](https://www.keyboard-layout-editor.com/#/), as of now, I'm proud to announce that the F-24-prototype-MK1 is done!
 
 <img width="1073" height="411" alt="F-24-prototype-MK1" src="https://github.com/user-attachments/assets/829ca949-d6a2-449e-b788-5c58b400511d" />
 
-it's still far from perfect and i'd say that it barrely represents my idea but it's easier to think when you have a graphical representation of your thoughts. Another thing that i slightly touched is the look, feel and design of the keyboard. Even though the real design will only be developed after the MVP (AKA the layout and the bare minimum of the PCB and case) is ready, i still wanted to have some references on what and how.
+it's still far from perfect and I'd say that it barely represents my idea but it's easier to think when you have a graphical representation of your thoughts. Another thing that i slightly touched is the look, feel and design of the keyboard. Even though the real design will only be developed after the MVP (AKA the layout and the bare minimum of the PCB and case) is ready, i still wanted to have some references on what and how.
 One of my favourite keyboard designs (and the one I use RN) is the Varmilo Summit R2 TKL:
 <img width="894" height="336" alt="image" src="https://github.com/user-attachments/assets/497dd6e0-9236-40c8-85c1-93731d616c45" />
-Just look at those colors! the designs and icons are also cool, i love that some function keys are replaced with icons (i'll probably do that too) and the ESC key... OMG it gorgeously stands out.
+Just look at those colors! the designs and icons are also cool, i love that some function keys are replaced with icons (I'll probably do that too) and the ESC key... OMG it gorgeously stands out.
 
 Another keyboard design I enjoyed is the Lofree Block:
 <img width="894" height="384" alt="image" src="https://github.com/user-attachments/assets/1e0537f8-63e7-41d9-992a-064120320000" />
@@ -93,7 +93,7 @@ My last commit for today, I finished 1 key and will replicate it later
 ## 31.07.2026 - EST time `2 hrs 30 min`
 > Recreating the design on the PCB
 
-Finally my matrix looks like the schematic and it finally looks like my original idea! i finally reordered the dumb switches, wired them with their respective diode and LED and... it's so interesting but i'm sooooo tired of working today, at least now it looks PERFECT and I only need to add the Pi Pico (which might actually transform in a ESP32 or the RP2040 chip), MCP and wire them together.
+Finally my matrix looks like the schematic and it finally looks like my original idea! i finally reordered the dumb switches, wired them with their respective diode and LED and... it's so interesting but I'm sooooo tired of working today, at least now it looks PERFECT and I only need to add the Pi Pico (which might actually transform in a ESP32 or the RP2040 chip), MCP and wire them together.
 
 <img width="1687" height="695" alt="image" src="https://github.com/user-attachments/assets/46d23942-00db-48d6-9e2f-4bcfe395bbdc" />
 
@@ -156,7 +156,7 @@ fixed wiring, ready for filling everything
 
 <img width="1715" height="630" alt="image" src="https://github.com/user-attachments/assets/a16e63e1-303c-4a53-8e97-e78200aac46f" />
 
-OMG I'M SOOOOOOOOOOOOOOOOOOOOOOOOO TIRED.... the damn kicad gives me errors like "pin 1 and pin 1 are not connected" like what do you mean stupid ones and zeroes, they are one solid piece of copper!
+OMG I'M SOOOOOOOOOOOOOOOOOOOOOOOOO TIRED.... the damn KiCad gives me errors like "pin 1 and pin 1 are not connected" like what do you mean stupid ones and zeros, they are one solid piece of copper!
 
 <img width="1251" height="875" alt="image" src="https://github.com/user-attachments/assets/87b1810f-d35e-4c9a-8f19-d64fbeb4b596" />
 
@@ -194,7 +194,7 @@ MK1.3(A) SMD:
 ## 06.08.2026 - EST time `3 hrs`
 > Onshape sucks
 
-AFTER 3 (NOT KIDDING) PAINFUL HOURS I gave up with on shape and decided to use Fusion. Also guess what? I managed to setup Fusion, create a project, import my .step pcb and co a mathematically perfect outline in under 15 minutes (I NEVER USED FUSION IN MY LIFE) (that took 2.5 hrs in onshape to still lag like hell on earth). Kinda wasted time today but IDC, Fusion feels much more intuitive and it's blazing fast so making the case will be a breeze
+AFTER 3 (NOT KIDDING) PAINFUL HOURS I gave up with on shape and decided to use Fusion. Also guess what? I managed to setup Fusion, create a project, import my .step PCB and co a mathematically perfect outline in under 15 minutes (I NEVER USED FUSION IN MY LIFE) (that took 2.5 hrs in onshape to still lag like hell on earth). Kinda wasted time today but IDC, Fusion feels much more intuitive and it's blazing fast so making the case will be a breeze
 
 Also I settled on the gasket mount since I care about feel and sound and also it doesn't require PCB side modifications (which is great since I have like 5 PCB revisions and variations and doing any changes on one means I'll have to redo all of them)
 
@@ -283,7 +283,7 @@ At the end I'm more than happy with the design and it's still not the end, I sti
 
 today i searched for like an hour straight to find an exact 1:1 replica of a Pi pico but with a type c port, and I found IT! it's technically a ESP C3 in the body of a pico and it's like 3mm shorter than the pico i decided to use but who cares, it works for me! That meant that my initial guess on the type C is not necessary anymore! (that also mean that I'll need to redo everything if i decide to use a THT pi but that's a problem for later) 
 
-during hole making process the hole tool actually clipped lile 0.1mm over the upper body so instead of extruding it 1mm i added a "lip"
+during hole making process the hole tool actually clipped like 0.1mm over the upper body so instead of extruding it 1mm i added a "lip"
 
 <img width="1369" height="322" alt="image" src="https://github.com/user-attachments/assets/a3228c9c-c718-4da5-a4d5-aceb23f8d222" />
 
@@ -301,7 +301,7 @@ I think the case is 90% done, a few cosmetic modifications and I think i'm ready
 
 ## 26.08.2026 - EST time `2 hrs 33 min`
 
-since it's the end of my journey i spent all day fighting with fusion and JLC to export and check for manufacturing for my stuff. apparently it's cheaper than i thought. but fusion still fights back by crashing on any action. I still have to make the 2 parts meet but the guide doesn't say much about it and i'll have to guess, again
+since it's the end of my journey i spent all day fighting with fusion and JLC to export and check for manufacturing for my stuff. apparently it's cheaper than i thought. but fusion still fights back by crashing on any action. I still have to make the 2 parts meet but the guide doesn't say much about it and I'll have to guess, again
 
 ## 27.08.2026 - EST time `2 hrs 23 min`
 
@@ -336,7 +336,7 @@ Also today I almost finished with screws + fixed the port hole problem
 
 ## 29.08.2026 - EST time `2 hrs`
 
-life doesn't hesitate throwing lemons at me again so i couldn't move my shetch, anyways i still have my holes so i'm okay with that
+life doesn't hesitate throwing lemons at me again so i couldn't move my shetch, anyways i still have my holes so I'm okay with that
 
 <img width="1241" height="508" alt="image" src="https://github.com/user-attachments/assets/44da7784-8f40-4e38-9ae3-9ff4beb18b30" />
 
@@ -371,3 +371,9 @@ A bigger problem was the case, to indent my logo in the bottom of the case i had
 (even though it looks like a 2d sketch it's indented .3 and .2 mm, i might change it if i find out that there's something wrong with the current design)
 
 the only thing left is finishing the SWAG and it's ready to sail the seas of Open Source Hardware!
+
+## 11/09/2026 - THE END total time ~90 hrs
+YES! I'm ready! it was a great journey but everything comes to an end, and in my case this end only means the transition to manufacturing!
+
+#MANUFACTURING AND ASSEMBLY:
+##TBA
