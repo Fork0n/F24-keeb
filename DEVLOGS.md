@@ -375,5 +375,6 @@ the only thing left is finishing the SWAG and it's ready to sail the seas of Ope
 ## 11/09/2026 - THE END total time ~90 hrs
 YES! I'm ready! it was a great journey but everything comes to an end, and in my case this end only means the transition to manufacturing!
 
-#MANUFACTURING AND ASSEMBLY:
-##TBA
+# MANUFACTURING AND ASSEMBLY:
+
+## TBA
