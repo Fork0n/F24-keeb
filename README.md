@@ -4,7 +4,10 @@
 *assuming you remap all 12 additional function keys + 5 macros + 2 dial on click
 
 
-<img width="3840" height="2160" alt="keeb-render-blk-mk4" src="https://github.com/user-attachments/assets/3ba9f37c-0f4e-426f-b517-070d65963408" />
+<!-- <img width="3840" height="2160" alt="keeb-render-blk-mk4" src="https://github.com/user-attachments/assets/3ba9f37c-0f4e-426f-b517-070d65963408" /> -->
+<img width="4000" height="1250" alt="keeb-render-blk-wide" src="https://github.com/user-attachments/assets/7663ecb9-9ca8-4038-9555-5498e8c0e38c" />
+
+
 
 
 ## Project info:
