@@ -3,6 +3,10 @@
 
 *assuming you remap all 12 additional function keys + 5 macros + 2 dial on click
 
+
+<img width="3840" height="2160" alt="keeb-render-blk-mk4" src="https://github.com/user-attachments/assets/3ba9f37c-0f4e-426f-b517-070d65963408" />
+
+
 ## Project info:
 ### Format: TKL++
 ### Materials:
